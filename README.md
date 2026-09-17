@@ -22,7 +22,7 @@
 
 <td width="260" align="center">
 
-<img src="./assets/side-art.jpeg" width="260" />
+<img src="./assets/side-art.jpg" width="260" />
 
 </td>
 </tr>
