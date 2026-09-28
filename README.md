@@ -11,7 +11,7 @@
 <pre>
 ୨୧  bsc computing student
 ୨୧  interested in people + technology
-୨୧  currently collecting side projects like pokémon
+୨୧  currently pondering side projects
 ୨୧  looking for international grad roles!
 ୨୧  learning: interaction design · software project management · multi-agent systems
 </pre>
